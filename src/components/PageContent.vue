@@ -16,12 +16,11 @@
             </Column>
         </DataTable>
     </div>
-    
+
     <Toast />
 
-
     <Dialog v-model:visible="visible" modal header="Edit Affiliate" :style="{ width: '25rem' }">
-        <span class="text-surface-500 dark:text-surface-400 block mb-8">Update Some think</span>
+        <span class="text-surface-500 dark:text-surface-400 block mb-8">Update Some thing</span>
         <div class="flex items-center gap-4 mb-4">
             <label for="username" class="font-semibold w-24">Username</label>
             <InputText id="username" class="flex-auto" autocomplete="off" />
