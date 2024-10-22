@@ -1,4 +1,4 @@
-# poke-prime-vue
+# poc-prime-vue
 
 ## Project setup
 ```
